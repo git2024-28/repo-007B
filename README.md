@@ -2,6 +2,4 @@
 Git porgram
 Hi
 Welcome
-ise
-class
-git
+
